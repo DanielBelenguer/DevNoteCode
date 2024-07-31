@@ -1,0 +1,101 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# SvelteKit build output
+/.svelte-kit
+/build
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Gridsome build output
+dist/
+
+# VuePress build output
+.vuepress/dist
+
+# Docusaurus build output
+/build
+
+# Temporary files
+tmp/
+temp/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Python virtual environments
+venv/
+__pycache__/
+
+# Java classes
+*.class
+
+# JetBrains IDEs
+.idea/
+
+# IDE Specific
+.vscode/
+
+# Local environment configuration
+.env.local
+.env.*.local
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# Sapper build output
+__sapper__/
+
+# Husky
+.husky/_
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional eslint cache
+.eslintcache
+
+# Snyk
+.snyk
+
+# Storybook files
+.storybook/
+*.lock
+
