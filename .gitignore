@@ -100,5 +100,5 @@ __sapper__/
 *.lock
 
 # Personal
-**/.nogit
+*.nogit
 
