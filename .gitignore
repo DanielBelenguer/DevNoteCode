@@ -99,3 +99,6 @@ __sapper__/
 .storybook/
 *.lock
 
+# Personal
+**/.nogit
+
