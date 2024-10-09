@@ -1,0 +1,35 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos de la barra de navegación */
+.NavBar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 35px;
+}
+
+/* Estilos del contenedor de busqueda*/
+.busqueda {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 15px;
+}
+
+.busqueda h3 {
+  align-self: flex-start;
+}
+
+.busqueda button {
+  width: 15%;
+  margin-top: 10px;
+}
+
+/* Estilos de contenedor de las cards*/
+
+/* Estilos de las cards */
